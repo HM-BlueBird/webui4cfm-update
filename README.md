@@ -14,7 +14,7 @@ THIS UPDATE INCLUDES SEVERAL ADDITIONAL FEATURES SUCH AS:
 - TERMUX (TO INSTALL DEPEDENCIES)
 - PHP (INSTALL IN TERMUX)
 - WEBUI4CFM (HAS ADDED IN THIS FILE, JUST DOWNLOAD THIS REPO AND FLASH WEBUI4CFM.ZIP WITH MAGISK AFTER INSTALLING PHP)
-- MMSSDB (HAS ADDED IN THIS FILE, JUST DOWNLOAD THIS REPO AND PUT INTO ROOT FOLDER /data/data/com.android.providers.telephony/databases) IF U CONFUSED HERE THE LINK TO TUTORIAL : https://stackoverflow.com/questions/43325303/reading-sms-from-android-device-using-adb-shell-commands
+- SQLITE3 (HAS ADDED IN THIS FILE, JUST DOWNLOAD THIS REPO AND PUT INTO device/system/xbin (root directory). DONT FORGET TO CHECK MMSDB IN FOLDER /data/data/com.android.providers.telephony/databases) IF U CONFUSED HERE THE LINK TO TUTORIAL : https://stackoverflow.com/questions/43325303/reading-sms-from-android-device-using-adb-shell-commands
 - VNSTAT (INSTALL IN TERMUX)
 
 # HOW TO :
